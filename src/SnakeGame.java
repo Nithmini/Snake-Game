@@ -1,7 +1,7 @@
 public class SnakeGame {
     public static void main(String[] args) {
 
-        //create instance
+        //create instance 
          new GameFrame();
     }
 }
