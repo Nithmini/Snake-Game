@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class GameFrame extends JFrame {
 
-    //instructor
+    // create instructor
     GameFrame(){
 
         this.add(new GamePanel());
